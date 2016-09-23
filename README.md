@@ -1,8 +1,8 @@
-Name:
+Name: Rushabh Vora (ID#915409617)
 
-Compilation and Run Successful:
+Compilation and Run Successful: Initial run not successful, ran into Gradle Sync errors. Fixed by updating the necessary Android Studio components. Ran the app on Android device, Hello World + field to enter numbers.
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Successful run with exit code 0
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
